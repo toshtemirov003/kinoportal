@@ -1,0 +1,8 @@
+.popular-link{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+.popular-link:hover{
+    color: rgba(36, 29, 133, 0.801);
+}
